@@ -24,5 +24,5 @@ I pasted the provided shares into the input boxes and the tool immediately recon
 
 ![alt text](image.png)
 
-
-The flag was: ctf{d6b72529c6177d8f648ae85f624a24d6f1edce5ca29bd7cc0b888e117a123892}
+## The flag
+    The flag was: ctf{d6b72529c6177d8f648ae85f624a24d6f1edce5ca29bd7cc0b888e117a123892}
