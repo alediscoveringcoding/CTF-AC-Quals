@@ -13,7 +13,7 @@
     When presented with a .wav file in CTFs, the first assumption is that the challenge involves steganography in audio.
     
     Since the file also contained music, the next step was to check whether the hidden content was layered in the frequency spectrum.
-    ![alt text](image-4.png)
+![alt text](image-4.png)
     I used Audacity to remove the music so that the code have a bettere visibility
 
 ![alt text](image-1.png)
