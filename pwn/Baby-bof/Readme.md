@@ -1,6 +1,8 @@
 ![alt text](image.png)
 
-My first pwn challange that made sense. The first step was to download the binary and perform a basic analysis to understand what we were dealing with though file baby: ELF 64-bit LSB executable... then i did a checksec ad there was no PIE or other things active.
+My first pwn challange that made sense. Before this challange i watched a yt video avout how ret to win works https://www.youtube.com/watch?v=E4ZWJsGySoY&t=334s&ab_channel=CryptoCat and this video made clear a lot of things.
+
+The first step was to download the binary and perform a basic analysis to understand what we were dealing with though file baby: ELF 64-bit LSB executable... then i did a checksec ad there was no PIE or other things active.
 
 I opened the binary in a decompiler to analyze it.
 
